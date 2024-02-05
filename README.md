@@ -1,38 +1,49 @@
-<p align="center">
-  <img alt="Rocketseat Education" src="https://avatars.githubusercontent.com/u/69590972?s=200&v=4" width="100px" />
-</p>
+# Ignite Shoes
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=Rocketseat&message=Education&color=8257e5&labelColor=202024" alt="Rocketseat Project" />
-  <a href="LICENSE"><img  src="https://img.shields.io/static/v1?label=License&message=MIT&color=8257e5&labelColor=202024" alt="License"></a>
-</p>
+<img src="./assets/cover.png"  alt="Capa do projeto" />
 
+App no estilo e-commerce, voltando para modelos de tenis. Você pode: filtrar por marcas, selecionar os tamanhos e quantidade, e por fim verificar os itens no carrinho.
 
-## 💻 Projeto
+### 📋 Pré-requisitos
 
-igniteshoesapp
+Certifique-se que tenha todo o [ambiente de desenvolvimento](https://react-native.rocketseat.dev) preparado para iniciar/rodar um projeto em React Native, de acordo com seu sistema operacional: Windows, Linux, MacOS, etc. Com emuladores e/ou dispositivos devidamente configurados. Este projeto também utiliza o [Expo](https://expo.dev).
 
-## 📝 Licença
+### 🔧 Instalação
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Clonando este repositório:
 
----
+```
+git clone git@github.com:mayromyller/igniteshoes.git
+```
 
-<p align="center">
-  Feito com 💜 by Rocketseat
-</p>
+Instalando dependencias (yarn ou npm):
 
+```
+yarn install
+```
 
-<!--START_SECTION:footer-->
+Rodando o projeto (yarn ou npm):
 
-<br />
-<br />
+```
+npx expo start --dev-client
+```
 
-<p align="center">
-  <a href="https://discord.gg/rocketseat" target="_blank">
-    <img align="center" src="https://storage.googleapis.com/golden-wind/comunidade/rodape.svg" alt="banner"/>
-  </a>
-</p>
+Encontrou algum problema ao rodar o app? Fique a vontade para me contactar no [Linkedin - Mayro Myller](https://www.linkedin.com/in/mayromyller/)
 
-<!--END_SECTION:footer-->
+## 🛠️ Construído com
 
+- Typescript | Javascript - React Native
+- [Expo/Expo CLI](https://expo.dev), Expo dev client, EAS
+- [Firebase Cloud Message](https://firebase.google.com)
+- [OneSignal](https://onesignal.com/) - Push notification
+- [Expo Deep Linking](https://docs.expo.dev/guides/deep-linking)
+- [React Navigation](https://reactnavigation.org) - Bottom tab & Stack Navigation
+- [NativeBase](https://nativebase.io/) (Estilização/CSS)
+
+## 📌 Versão
+
+Version: 1.0.0
+
+## 📄 Licença
+
+Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.

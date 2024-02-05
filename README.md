@@ -36,7 +36,7 @@ Encontrou algum problema ao rodar o app? Fique a vontade para me contactar no [L
 - [Expo/Expo CLI](https://expo.dev), Expo dev client, EAS
 - [Firebase Cloud Message](https://firebase.google.com)
 - [OneSignal](https://onesignal.com/) - Push notification
-- [Expo Deep Linking](https://docs.expo.dev/guides/deep-linking)
+- [Expo Linking](https://docs.expo.dev/versions/latest/sdk/linking/)
 - [React Navigation](https://reactnavigation.org) - Bottom tab & Stack Navigation
 - [NativeBase](https://nativebase.io/) (Estilização/CSS)
 

@@ -19,6 +19,7 @@ import { CartContextProvider } from "./src/contexts/CartContext";
 
 OneSignal.Debug.setLogLevel(LogLevel.Verbose);
 OneSignal.initialize(ONESIGNAL_ID);
+OneSignal.Notifications.requestPermission(true);
 
 export default function App() {
   const [fontsLoaded] = useFonts({ Roboto_400Regular, Roboto_700Bold });

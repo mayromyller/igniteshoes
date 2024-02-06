@@ -28,7 +28,9 @@ Rodando o projeto (yarn ou npm):
 npx expo start --dev-client
 ```
 
-Encontrou algum problema ao rodar o app? Fique a vontade para me contactar no [Linkedin - Mayro Myller](https://www.linkedin.com/in/mayromyller/)
+### 📦️ Implementação
+
+Caso deseje fazer os teste de Push Notification no projeto, certifique-se de configurar as chaves para cada serviço, google: Firebase Cloud Message e apple: App Push Notification, junto ao OneSignal.
 
 ## 🛠️ Construído com
 
@@ -44,6 +46,6 @@ Encontrou algum problema ao rodar o app? Fique a vontade para me contactar no [L
 
 Version: 1.0.0
 
-## 📄 Licença
+---
 
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
+Encontrou algum problema ao rodar o app? Fique a vontade para me contactar no [Linkedin - Mayro Myller](https://www.linkedin.com/in/mayromyller/)
